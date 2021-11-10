@@ -63,6 +63,9 @@ body {
 .align-items-center {
     align-items: center!important;
 }
+.align-items-left {
+    align-items: left!important;
+}
 .d-flex {
     display: -ms-flexbox!important;
     display: flex!important;
@@ -392,4 +395,7 @@ body {
     width: 60%;
     padding: 10px;
 }
-
+.left {
+    margin: auto;
+    padding: 0 0 0 10%;
+}
