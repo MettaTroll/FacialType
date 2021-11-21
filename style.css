@@ -102,6 +102,10 @@ body {
   padding: 0 15px 15px 15px;
   color: #222;
 }
+.ads{
+
+  left: 100px;
+}
 
 .drag-text {
   text-align: center;
